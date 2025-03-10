@@ -1,0 +1,25 @@
+
+.main{
+    margin: 0.5rem;
+}
+
+.carrinho{
+    font-size: 20px;
+}
+
+.lista{
+    margin: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista li{
+    list-style: none;
+}
+
+.produto{
+    border: solid 1px black;
+    border-radius: 5px;
+    width: 12rem;
+    overflow: hidden;
+}
